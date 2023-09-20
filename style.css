@@ -1,0 +1,23 @@
+#baseBG{
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: black;
+    height: 500;
+    width: 500;
+}
+
+body{
+    background-color: gray;
+}
+
+#score{
+    position: absolute;
+    left: 0;
+    top :584;
+    width: 587;
+    font-size: 50;
+    background-color: black;
+    color: white;
+    text-align: center ;
+}
